@@ -1,0 +1,15 @@
+Binaries/
+Build/
+DerivedDataCache/
+Intermediate/
+Saved/
+*.sln
+*.xcodeproj/
+
+backend/.venv/
+backend/**/__pycache__/
+backend/.pytest_cache/
+backend/.env
+
+frontend/node_modules/
+frontend/dist/
